@@ -1,0 +1,16 @@
+{
+  "name": "html-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Milburn <scmilburn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-safe": "^6.0.0",
+    "email-templates": "^5.0.0",
+    "nodemailer": "^4.6.8"
+  }
+}
